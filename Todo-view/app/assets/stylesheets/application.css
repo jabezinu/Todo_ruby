@@ -8,3 +8,8 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+
+ header { background: #f0f0f0; padding: 1em; }
+nav p { margin: 0.2em 0; }
+.container { padding: 1em; }
